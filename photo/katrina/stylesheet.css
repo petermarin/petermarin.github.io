@@ -58,27 +58,27 @@ main a {
 	color: white;
 	text-decoration: none;
 }
-.clearfix:after {
-   content: " ";
-   visibility: hidden;
-   display: block;
-   height: 0;
-   clear: both;
-}
+
 
 h2 {
-	text-align: center;
-	font-weight: 400;
+	
+	font-weight: 600;
 }
 
 .work img {
 	display: block;
 	margin: 10px;
-	float: left;
+	
 }
 .description {
-	width: 400px;
-	float: right;
+	width: 35%;
+	position: fixed;
+	top: 91px;
+	right: 170px;
+	text-align: justify;
+    text-justify: inter-word;
+	
+	
 }
 
 
