@@ -4,6 +4,11 @@
 
 a {
 	text-decoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: underline;
+	color: black;
 }
 nav a {
 	text-decoration: none;
@@ -58,7 +63,6 @@ main {
 	padding-top: 81px;
 }
 main a {
-	color: white;
 	text-decoration: none;
 }
 .circle img {
