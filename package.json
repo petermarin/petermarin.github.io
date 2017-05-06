@@ -1,0 +1,23 @@
+{
+  "name": "petermarin.github.io",
+  "version": "1.0.0",
+  "description": "What a weird site lol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermarin/petermarin.github.io.git"
+  },
+  "author": "Zach Power",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petermarin/petermarin.github.io/issues"
+  },
+  "homepage": "https://github.com/petermarin/petermarin.github.io#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mustache": "^2.3.0"
+  }
+}
